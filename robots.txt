@@ -1,0 +1,10 @@
+# robots.txt for Thamarai Healthcare
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /staff/
+Disallow: /patient/
+Disallow: /backend/
+Disallow: /assets/uploads/
+
+Sitemap: https://thamaraihealthcare.com/sitemap.xml
